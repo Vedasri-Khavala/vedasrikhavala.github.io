@@ -5,7 +5,7 @@ subtitle: A Few Places I've Excelled At
 ---
 
 ---
-###Fellowships & Scholarships
+Fellowships & Scholarships
 ---
 - DAAD Fellowship -
 - PMRF Fellowship - 
@@ -18,7 +18,7 @@ Secured Rank 2 in the Department of Metallurgical and Materials Engineering duri
 and awarded the Mr. Nilesh Mahakalkar memorial Rising Star Award for the same
 
 ---
-###Competitive Achievements
+Competitive Achievements
 ---
 
 Secured the First Place in Industry Defined Problem (IDP) at Amalgam, IITM,2018 for “Tailor
