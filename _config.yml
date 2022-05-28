@@ -18,6 +18,8 @@ navbar-links:
   Publications:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
+  Experience : "experience"  
+  
 
 # --- Logo --- #
 
