@@ -4,6 +4,7 @@ title: Achievements
 subtitle: A Few Places I've Excelled At
 ---
 
+---
 ###Fellowships & Scholarships
 ---
 - DAAD Fellowship -
@@ -16,6 +17,7 @@ Secured AIR 285 in GATE 2019
 Secured Rank 2 in the Department of Metallurgical and Materials Engineering during undergrad
 and awarded the Mr. Nilesh Mahakalkar memorial Rising Star Award for the same
 
+---
 ###Competitive Achievements
 ---
 
