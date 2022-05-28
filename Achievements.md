@@ -8,8 +8,11 @@ subtitle: A Few Places I've Excelled At
 ### Fellowships & Scholarships
 
 - DAAD Fellowship -
+
 - PMRF Fellowship - 
+
 - IIT Madras summer fellowship program - 2018
+
 - OP Jindal Engineering and Management Scholarships (OPJEMS) in 2016 Across India
 Secured AIR 285 in GATE 2019
 
