@@ -5,7 +5,7 @@ subtitle: A Few Places I've Excelled At
 ---
 
 
-Fellowships & Scholarships
+### Fellowships & Scholarships
 
 - DAAD Fellowship -
 - PMRF Fellowship - 
@@ -15,7 +15,7 @@ Secured AIR 285 in GATE 2019
 
 
 
-Competitive Achievements
+### Competitive Achievements
 
 
 - Secured Rank 2 in the Department of Metallurgical and Materials Engineering during undergrad
