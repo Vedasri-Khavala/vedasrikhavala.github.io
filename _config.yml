@@ -14,7 +14,7 @@ author: Vedasri Khavala
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Achievements: "aboutme"
+  Achievements: "Achievements"
   Publications:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
