@@ -3,8 +3,8 @@ layout: page
 title: Achievements
 subtitle: A Few Places I've Excelled At
 ---
----
-subtitle: **Fellowships & Scholarships**
+
+###Fellowships & Scholarships
 ---
 - DAAD Fellowship -
 - PMRF Fellowship - 
@@ -15,8 +15,8 @@ Secured AIR 285 in GATE 2019
 
 Secured Rank 2 in the Department of Metallurgical and Materials Engineering during undergrad
 and awarded the Mr. Nilesh Mahakalkar memorial Rising Star Award for the same
----
-subtitle: **Competitive Achievements**
+
+###Competitive Achievements
 ---
 
 Secured the First Place in Industry Defined Problem (IDP) at Amalgam, IITM,2018 for “Tailor
