@@ -15,9 +15,7 @@ author: Vedasri Khavala
 
 navbar-links:
   Achievements: "Achievements"
-  Publications:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Publications: "publications"
   Experience : "experience"  
   
 
