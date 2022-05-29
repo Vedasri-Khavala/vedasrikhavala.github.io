@@ -15,17 +15,17 @@ title: About Me
 
 ## Skillset
 
-* Experimental Techniques : 
+* Experimental Techniques 
  * Operation and understanding of Thermal Technology Unit (NETZSCH STA 409 PC and STA 449F3)
- *  X-Ray Diffraction (X’pert PRO PANalytical)
+ * X-Ray Diffraction (X’pert PRO PANalytical)
 
 * Software Packages : 
  * FullProf Suite 3.00 (Rietveld Analysis)
- *  HighScoreplus Version 3 and 4.1
- *  Thermo-Calc 2021a, Pandat
- *  Large-scale Atomic/Molecular Massively Parallel Simulator (LAMMPS)
- *  ImageJ
- *  Quantum Expresso Version 6
- *  MatLab\raisebox{0.8ex}{\small\textcopyright} 
- *  OriginPro 9.0 SR1 and MTEX. 
-*  Python3
+ * HighScoreplus Version 3 and 4.1
+ * Thermo-Calc 2021a, Pandat
+ * Large-scale Atomic/Molecular Massively Parallel Simulator (LAMMPS)
+ * ImageJ
+ * Quantum Expresso Version 6
+ * MatLab\raisebox{0.8ex}{\small\textcopyright} 
+ * OriginPro 9.0 SR1 and MTEX. 
+* Python3
