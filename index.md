@@ -15,11 +15,10 @@ title: About Me
 
 ## Skillset
 
-* Experimental Techniques 
+* Experimental Techniques  
  * Operation and understanding of Thermal Technology Unit (NETZSCH STA 409 PC and STA 449F3)
  * X-Ray Diffraction (X’pert PRO PANalytical)
-
-* Software Packages : 
+* Software Packages 
  * FullProf Suite 3.00 (Rietveld Analysis)
  * HighScoreplus Version 3 and 4.1
  * Thermo-Calc 2021a, Pandat
