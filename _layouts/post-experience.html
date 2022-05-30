@@ -7,7 +7,7 @@ layout: page
 {% assign posts = paginator.posts | default: site.posts %}
 
 <div class="posts-list">
-  {% for post in posts/experience %}
+  {% for post in posts %}
    {% if post.category == "experience" %}
   <article class="post-preview">
 
