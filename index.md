@@ -5,9 +5,9 @@ title: About Me
 
 >I am Vedasri Bai Khavala, PMRF PhD student at IIT Madras. I am currently in my third year of PhD, where I work on green hydrogen production.
 
-I am supervised by Dr. Tiju Thomas of Applied Nanostructures Engineering and Nanochemistry group, department of metallurgical and materials engineering, IIT Madras and Prof. B.S. Murty of Nanotechnology group, department of materials engineering, IIT Hyderabad.
+I am supervised by Dr. Tiju Thomas of Applied Nanostructures Engineering and Nanochemistry group, department of Metallurgical and Materials engineering, IIT Madras and Prof. B.S. Murty of Nanotechnology group, department of Materials engineering, IIT Hyderabad.
 
-Prior to this I completed my undergraduate degree in Metallurgical and Materials Engineering at the Visvesvaraya National Institute of Technology, Nagpur with an exchange at Indian Institute of Technology Madras. There, I received the Rising star award and Dr. Neelkesh (I don’t remember exactly please check CV) as the undergraduate student with the second highest CGPA of the Department of Metallurgucal and Materiald Engineering. 
+Prior to this I completed my Undergraduate degree in Metallurgical and Materials Engineering at the Visvesvaraya National Institute of Technology, Nagpur with an exchange at Indian Institute of Technology Madras. There, I received the Mr. Nilesh Mahakalkar Rising star award as the undergraduate student with the second highest CGPA of the Department of Metallurgical and Materials Engineering. 
 
 I was associated with Prof. B. S. Murty's group at IIT Madras where I worked on Entropy of High Entropy Alloys.
 
@@ -28,13 +28,13 @@ I was associated with Prof. B. S. Murty's group at IIT Madras where I worked on 
  * X-Ray Diffraction (X’pert PRO PANalytical)
 
 * Software Packages
- * FullProf Suite 3.00 (Rietveld Analysis)
- * HighScoreplus Version 3 and 4.1
- * Thermo-Calc 2021a, Pandat
- * Large-scale Atomic/Molecular Massively Parallel Simulator (LAMMPS)
- * ImageJ
- * Quantum Expresso Version 6
- * MatLab 
- * OriginPro 9.0 SR1 and MTEX. 
+ - FullProf Suite 3.00 (Rietveld Analysis)
+ - HighScoreplus Version 3 and 4.1
+ - Thermo-Calc 2021a, Pandat
+ - Large-scale Atomic/Molecular Massively Parallel Simulator (LAMMPS)
+ - ImageJ
+ - Quantum Expresso Version 6
+ - MatLab 
+ - OriginPro 9.0 SR1 and MTEX. 
 
 * Python3
