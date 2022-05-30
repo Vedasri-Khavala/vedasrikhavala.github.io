@@ -3,6 +3,14 @@ layout: page
 title: About Me
 ---
 
+>I am Vedasri Bai Khavala, PMRF PhD student at IIT Madras. I am currently in my third year of PhD, where I work on green hydrogen production.
+
+I am supervised by Dr. Tiju Thomas of Applied Nanostructures Engineering and Nanochemistry group, department of metallurgical and materials engineering, IIT Madras and Prof. B.S. Murty of Nanotechnology group, department of materials engineering, IIT Hyderabad.
+
+Prior to this I completed my undergraduate degree in Metallurgical and Materials Engineering at the Visvesvaraya National Institute of Technology, Nagpur with an exchange at Indian Institute of Technology Madras. There, I received the Rising star award and Dr. Neelkesh (I don’t remember exactly please check CV) as the undergraduate student with the second highest CGPA of the Department of Metallurgucal and Materiald Engineering. 
+
+I was associated with Prof. B. S. Murty's group at IIT Madras where I worked on Entropy of High Entropy Alloys.
+
 ## Postions Of Responsibilities
 
 * Part of the editorial team for the department magazine ETCH 2020 at IIT Madras. ETCH aims to highlight the research advancements as well as other co-curricular activities in the department.
