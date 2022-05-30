@@ -1,5 +1,5 @@
 ---
-layout: post-experience
+layout: post
 category: experience
 title: Entropy of High Entropy Alloys (HEAs)
 subtitle: Supervised by Prof.B.S.Murty (Department of Metallurgical and Materials Engineering, IITM)
