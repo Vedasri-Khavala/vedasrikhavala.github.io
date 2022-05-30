@@ -1,7 +1,7 @@
 ---
 layout: post-publications
-categories: publications
-title: Gas Hydrate-Based Process for Desalination of Heavy Metal Ions from an Aqueous Solution: Kinetics and Rate of Recovery
+category: publications
+title: Gas Hydrate-Based Process for Desalination of Heavy Metal Ions from an Aqueous Solution
 subtitle: Namrata Gaikwad, Ruthwik Nakka, Vedasri Bai Khavala, Abhishek Bhadani, Hadas Mamane, Rajnish Kumar
 ---
 
