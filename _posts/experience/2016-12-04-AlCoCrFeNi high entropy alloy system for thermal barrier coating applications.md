@@ -1,6 +1,6 @@
 ---
 layout: post-experience
-categories: experience
+category: experience
 title: AlCoCrFeNi high entropy alloy system for thermal barrier coating applications
 subtitle: Supervised by Dr.Ravisankar Kottada (Department of Metallurgical and Materials Engineering, IITM)
 ---
