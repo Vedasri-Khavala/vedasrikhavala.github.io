@@ -8,6 +8,7 @@ layout: page
 
 <div class="posts-list">
   {% for post in posts %}
+   {% if post.category == "experience"%}
   <article class="post-preview">
 
     {%- capture thumbnail -%}
