@@ -1,6 +1,6 @@
 ---
 layout: post-experience
-categories: experience
+category: experience
 title: Self doped TiO2 for photocatalytic applications
 subtitle: Supervised by Dr.Ajeet Srivastav (Department of Metallurgical and Materials Engineering, VNIT)
 
