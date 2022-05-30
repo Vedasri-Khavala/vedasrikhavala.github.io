@@ -1,5 +1,5 @@
 ---
-layout: post-experience
+layout: post
 category: experience
 title: Gas Hydrate-Based Process for Desalination of Heavy Metal Ions from an Aqueous Solution
 ---
