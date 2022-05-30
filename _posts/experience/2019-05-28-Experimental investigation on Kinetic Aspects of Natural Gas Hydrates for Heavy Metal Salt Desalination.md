@@ -1,6 +1,6 @@
 ---
 layout: post-experience
-categories: experience
+category: experience
 title: Experimental investigation on Kinetic Aspects of Natural Gas Hydrates for Heavy Metal Salt Desalination
 subtitle: Supervised by Dr.Rajnish Kumar (Department of Chemical Engineering, IITM) 
 ---
