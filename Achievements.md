@@ -7,9 +7,9 @@ subtitle: A Few Places I've Excelled At
 
 ### Fellowships & Scholarships
 
-- DAAD Fellowship -
+- DAAD Fellowship - October 2022 - October 2023
 
-- PMRF Fellowship - 
+- PMRF Fellowship - May 2021
 
 - IIT Madras summer fellowship program - 2018
 
