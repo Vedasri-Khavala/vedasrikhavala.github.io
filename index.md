@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-image : "/assets/img/vedasri khavala.jpeg"
+image : /assets/img/vedasri khavala.jpeg
 ---
 
 ![Vedasri Khavala]({{ page.image | relative_url }}){: .mx-auto.d-block :}
