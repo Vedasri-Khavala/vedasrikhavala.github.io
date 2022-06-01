@@ -1,10 +1,8 @@
 ---
 layout: page
 title: About Me
-image : /assets/img/vedasri khavala.jpeg
+thumbnail-img : /assets/img/vedasri khavala.jpeg
 ---
-
-![Vedasri Khavala]({{ page.image }})
 
 >I am Vedasri Bai Khavala, PMRF PhD student at IIT Madras. I am currently in my third year of PhD, where I work on green hydrogen production.
 
