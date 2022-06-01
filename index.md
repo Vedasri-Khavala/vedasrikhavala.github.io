@@ -1,10 +1,9 @@
 ---
 layout: page
 title: About Me
-image : "/assets/img/vedasri khavala.jpeg"
 ---
 
-![Vedasri Khavala]({{% page.image %}})
+![Vedasri Khavala](/assets/img/vedasri khavala.jpeg)
 >I am Vedasri Bai Khavala, PMRF PhD student at IIT Madras. I am currently in my third year of PhD, where I work on green hydrogen production.
 
 I am supervised by Dr. Tiju Thomas of Applied Nanostructures Engineering and Nanochemistry group, department of Metallurgical and Materials engineering, IIT Madras and Prof. B.S. Murty of Nanotechnology group, department of Materials engineering, IIT Hyderabad.
