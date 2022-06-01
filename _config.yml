@@ -39,9 +39,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "vkhavala97@gmail.com"
-  linkedin: 
+  linkedin: "https://www.linkedin.com/in/vedasri-khavala-717625142?originalSubdomain=in"
   telephone: 8552058285
-  google-scholar: your google scholar
+  google-scholar: "https://scholar.google.com/citations?user=svi2Tc0AAAAJ&hl=en"
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be ps://<your_website>/feed.xml
