@@ -3,6 +3,8 @@ layout: page
 title: About Me
 ---
 
+![Vedasri Khavala](){: .mx-auto.d-block :}
+
 >I am Vedasri Bai Khavala, PMRF PhD student at IIT Madras. I am currently in my third year of PhD, where I work on green hydrogen production.
 
 I am supervised by Dr. Tiju Thomas of Applied Nanostructures Engineering and Nanochemistry group, department of Metallurgical and Materials engineering, IIT Madras and Prof. B.S. Murty of Nanotechnology group, department of Materials engineering, IIT Hyderabad.
@@ -24,15 +26,15 @@ I was associated with Prof. B. S. Murty's group at IIT Madras where I worked on 
 ## Skillset
 
 * Experimental Techniques
- * Operation and understanding of Thermal Technology Unit (NETZSCH STA 409 PC and STA 449F3)
- * X-Ray Diffraction (X’pert PRO PANalytical)
+  * Operation and understanding of Thermal Technology Unit (NETZSCH STA 409 PC and STA 449F3)
+  * X-Ray Diffraction (X’pert PRO PANalytical)
 * Software Packages
- * FullProf Suite 3.00 (Rietveld Analysis)
- * HighScoreplus Version 3 and 4.1
- * Thermo-Calc 2021a, Pandat
- * Large-scale Atomic/Molecular Massively Parallel Simulator (LAMMPS)
- * ImageJ
- * Quantum Expresso Version 6
- * MatLab 
- * OriginPro 9.0 SR1 and MTEX.
+  * FullProf Suite 3.00 (Rietveld Analysis)
+  * HighScoreplus Version 3 and 4.1
+  * Thermo-Calc 2021a, Pandat
+  * Large-scale Atomic/Molecular Massively Parallel Simulator (LAMMPS)
+  * ImageJ
+  * Quantum Expresso Version 6
+  * MatLab 
+  * OriginPro 9.0 SR1 and MTEX.
 * Python3
