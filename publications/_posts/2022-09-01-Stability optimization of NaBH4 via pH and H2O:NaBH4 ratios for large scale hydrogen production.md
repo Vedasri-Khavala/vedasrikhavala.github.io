@@ -1,7 +1,7 @@
 ---
 layout: post
 category: publications
-title: Stability optimisation of NaBH₄ via pH and H₂O : NaBH₄ ratios for large scale hydrogen production
+title: Stability optimisation of NaBH₄ via pH and H₂O to NaBH₄ ratios for large scale hydrogen production
 ---
 
 >Tiju Thomas Parth Mehta, Vedasri Bai Khavala, Prabhu Rajagopal
